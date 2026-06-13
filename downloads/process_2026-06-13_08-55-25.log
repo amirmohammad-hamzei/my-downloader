@@ -1,0 +1,12 @@
+Download started: Sat Jun 13 08:55:25 UTC 2026
+Batch: download_2026-06-13_08-55-25
+=========================================
+[1] Processing: v9.5.0
+URL: https://codeload.github.com/lvgl/lvgl/zip/refs/tags/v9.5.0
+⏳ Downloading...
+✅ Downloaded: 99 MB
+📦 File > 90MB, creating ZIP...
+   ZIP created: 97 MB
+✂️  Splitting into 90MB parts...
+✅ Completed: v9.5.zip
+
